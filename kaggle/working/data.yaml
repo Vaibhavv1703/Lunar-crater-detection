@@ -1,0 +1,7 @@
+
+train: C:\Users\vaibh\OneDrive\Documents\Programs\Machine_Learning\ISRO\kaggle\input\martianlunar-crater-detection-dataset\craters\train\images
+val: C:\Users\vaibh\OneDrive\Documents\Programs\Machine_Learning\ISRO\kaggle\input\martianlunar-crater-detection-dataset\craters\valid\images
+test: C:\Users\vaibh\OneDrive\Documents\Programs\Machine_Learning\ISRO\kaggle\input\martianlunar-crater-detection-dataset\craters\test\images
+
+nc: 1  # number of classes
+names: ['class_0']  # class names
